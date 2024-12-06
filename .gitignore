@@ -1,3 +1,6 @@
 .Trash-*
 .pnpm-store
-
+.bash_history
+.env
+.env.*
+!.env.example
