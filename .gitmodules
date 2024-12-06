@@ -1,0 +1,12 @@
+[submodule "api-python"]
+	path = api-python
+	url = https://github.com/jifalops/api-python.git
+[submodule "api-rust"]
+	path = api-rust
+	url = https://github.com/jifalops/api-rust.git
+[submodule "native-tauri"]
+	path = native-tauri
+	url = https://github.com/jifalops/native-tauri.git
+[submodule "web-svelte"]
+	path = web-svelte
+	url = https://github.com/jifalops/svelte-static.git
